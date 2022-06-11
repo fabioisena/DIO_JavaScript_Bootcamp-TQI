@@ -1,1 +1,1 @@
-# dio-introdu-o-ao-JavaScript-contador
+# dio-introducao-ao-JavaScript-contador
